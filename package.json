@@ -1,0 +1,23 @@
+{
+  "name": "cmdname",
+  "version": "1.0.0",
+  "description": "Get the name of the command from the filepath",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/test.js --cov"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "~2.2.1"
+  },
+  "license": "MIT",
+  "author": "Evan Lucas <evanlucas@me.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanlucas/cmdname"
+  },
+  "homepage": "https://github.com/evanlucas/cmdname",
+  "bugs": {
+    "url": "https://github.com/evanlucas/cmdname/issues"
+  }
+}
