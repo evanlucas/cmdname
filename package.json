@@ -8,7 +8,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "tap": "~2.2.1"
+    "tap": "~5.6.0"
   },
   "license": "MIT",
   "author": "Evan Lucas <evanlucas@me.com>",
