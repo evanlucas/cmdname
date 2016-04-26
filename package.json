@@ -1,6 +1,6 @@
 {
   "name": "cmdname",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get the name of the command from the filepath",
   "main": "index.js",
   "scripts": {
